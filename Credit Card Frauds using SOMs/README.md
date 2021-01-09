@@ -6,7 +6,7 @@
 ## Model
 #### Self-organising maps were used to solve this problem.
 #### After basic EDA, the dataset was scaled and provided as input to the model.
-####A 10x10 grid was created. An input length of 15 was provided, and 100 iterations were performed.
+#### A 10x10 grid was created. An input length of 15 was provided, and 100 iterations were performed.
 #### A visual was created to see the defaulters.
 
 ## Improved Model
